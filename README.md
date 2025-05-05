@@ -146,7 +146,6 @@ This analysis explores how various personal, academic, and behavioral factors af
 - **Academic Support for Underperformers**: Personalized tutoring or study groups may help students struggling despite good effort.
 - **Peer Mentorship**: Use Johnson and Jones as academic mentors to guide peers in study habits and project strategies.
 
----
 
 ## 🏁 Conclusion
 
@@ -159,14 +158,9 @@ This analysis shows that academic performance is influenced by a mix of personal
 - Analysis notebook: `student_analysis.ipynb`
 - Dataset (anonymized): `student_performance.csv`
 
----
 
-## 🙌 Contributors
-- **Ivan [Project Lead & Analyst]**
 
 ---
 
-## 📬 Contact
-For feedback or questions, feel free to reach out via [LinkedIn](https://linkedin.com) or open an issue in this repo.
 
 
